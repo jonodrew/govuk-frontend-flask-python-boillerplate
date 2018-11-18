@@ -1,0 +1,19 @@
+{
+  "name": "govuk-frontend-flask-python-boilderplate",
+  "version": "1.0.0",
+  "description": "boilerplate flask webapp with govuk-frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igloosi/govuk-frontend-flask-python-boilderplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igloosi/govuk-frontend-flask-python-boilderplate/issues"
+  },
+  "homepage": "https://github.com/igloosi/govuk-frontend-flask-python-boilderplate#readme"
+}
