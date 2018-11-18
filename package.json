@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/igloosi/govuk-frontend-flask-python-boilderplate/issues"
   },
-  "homepage": "https://github.com/igloosi/govuk-frontend-flask-python-boilderplate#readme"
+  "homepage": "https://github.com/igloosi/govuk-frontend-flask-python-boilderplate#readme",
+  "dependencies": {
+    "govuk-frontend": "^2.3.0"
+  }
 }
